@@ -17,22 +17,25 @@
     "Info": {
       "CanInstallFirmware": true,
       "CanResetBoard": true,
-      "FirmwareBaseName": "mobiflight_template_raspberrypico",
+      "FirmwareBaseName": "mini_overhead_panel_raspberrypico",
       "FirmwareExtension": "uf2",
-      "FriendlyName": "MobiFlight Template RaspiPico",
-      "LatestFirmwareVersion": "0.0.1",
-      "MobiFlightType": "Mobiflight Template RaspiPico",
+      "FriendlyName": "Mini Overhead Panel RaspiPico",
+      "LatestFirmwareVersion": "1.0.0",
+      "MobiFlightType": "Mini Overhead Panel RaspiPico",
       "ResetFirmwareFile": "reset.raspberry_pico_flash_nuke.uf2",
-      "CustomDeviceTypes": [
-        "MOBIFLIGHT_TEMPLATE",
-        "MOBIFLIGHT_TEMPLATE2"
-      ],
+      "CustomDeviceTypes": [],
       "Community": {
-        "Project": "Your Project",
-        "Website": "https://YourWebsite.com",
-        "Docs": "https://YourWebsite.com",
+        "Project": "Mini Overhead Panel",
+        "Website": "https://github.com/MobiFlight/mobiflight-panels/tree/main/aircraft/airbus-a32x/overhead/mini-overhead",
+        "Docs": "https://github.com/MobiFlight/mobiflight-panels/tree/main/aircraft/airbus-a32x/overhead/mini-overhead",
         "Support": "https://YourWebsite.com"
-      }
+      },
+      "DeviceConfigs": [
+        {
+          "Name": "Mini Overhead Panel",
+          "Description": "Mini Overhead Panel",
+          "File": "Mini OverheadSMD.mfmc"
+        }
     },
     "ModuleLimits": {
       "MaxAnalogInputs": 3,
