@@ -36,6 +36,7 @@
           "Description": "Mini Overhead Panel",
           "File": "Mini OverheadSMD.mfmc"
         }
+      ]
     },
     "ModuleLimits": {
       "MaxAnalogInputs": 3,
@@ -49,7 +50,7 @@
       "MaxShifters": 6,
       "MaxSteppers": 6,
       "MaxInputMultiplexer": 6,
-      "MaxCustomDevices": 5
+      "MaxCustomDevices": 0
     },
     "Pins": [
       {
