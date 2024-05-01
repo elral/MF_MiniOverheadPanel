@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <ModuleType>MobiFlight RaspiPico</ModuleType>
+  <ModuleType>Mini Overhead Panel RaspiPico</ModuleType>
   <ModuleName>Mini OverheadSMD</ModuleName>
   <PowerSavingTime>600</PowerSavingTime>
   <ShiftRegister Name="ShiftRegister" LatchPin="12" ClockPin="13" DataPin="14" NumModules="2" />
