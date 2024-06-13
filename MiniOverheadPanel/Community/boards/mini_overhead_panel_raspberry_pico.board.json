@@ -29,14 +29,7 @@
         "Website": "https://github.com/MobiFlight/mobiflight-panels/tree/main/aircraft/airbus-a32x/overhead/mini-overhead",
         "Docs": "https://github.com/MobiFlight/mobiflight-panels/tree/main/aircraft/airbus-a32x/overhead/mini-overhead",
         "Support": "https://YourWebsite.com"
-      },
-      "DeviceConfigs": [
-        {
-          "Name": "Mini Overhead Panel",
-          "Description": "Mini Overhead Panel",
-          "File": "Mini OverheadSMD.mfmc"
-        }
-      ]
+      }
     },
     "ModuleLimits": {
       "MaxAnalogInputs": 3,
